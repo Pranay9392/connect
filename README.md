@@ -9,6 +9,20 @@ LocalConnect is a B2B and B2C marketplace designed to integrate e-commerce, soci
 - **Hyper-Local Recommendations:** Tailored product suggestions based on your location and preferences.
 - **Local Transportation:** Connects users with local buses and auto-rickshaws for delivery and transportation.
 
+## Screenshots
+
+### Home Screen
+
+![Home Screen](assets/images/home-screen.png)
+
+### Product Page
+
+![Product Page](assets/images/product-page.png)
+
+### Checkout Process
+
+![Checkout Process](assets/images/checkout-process.png)
+
 ## Getting Started
 
 To get started with LocalConnect, follow these steps:
