@@ -13,7 +13,7 @@ LocalConnect is a B2B and B2C marketplace designed to integrate e-commerce, soci
 
 ### Home Screen
 
-![Home Screen](assets/images/home-screen.png)
+![Home Screen](homepage.png)
 
 ### Product Page
 
