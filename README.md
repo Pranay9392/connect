@@ -17,11 +17,11 @@ LocalConnect is a B2B and B2C marketplace designed to integrate e-commerce, soci
 
 ### Product Page
 
-![Product Page](assets/images/product-page.png)
+![Product Page](shop.png)
 
 ### Checkout Process
 
-![Checkout Process](assets/images/checkout-process.png)
+![Checkout Process](news.png)
 
 ## Getting Started
 
