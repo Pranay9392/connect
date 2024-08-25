@@ -11,17 +11,11 @@ LocalConnect is a B2B and B2C marketplace designed to integrate e-commerce, soci
 
 ## Screenshots
 
-### Home Screen
-
-![Home Screen](homepage.png)
-
-### Product Page
-
-![Product Page](shop.png)
-
-### Checkout Process
-
-![Checkout Process](news.png)
+<div>
+    <img src="homepage.png" alt="Home Screen" style="width: 30%; display: inline-block; margin-right: 1%;"/>
+    <img src="shop.png" alt="Product Page" style="width: 30%; display: inline-block; margin-right: 1%;"/>
+    <img src="news.png" alt="Checkout Process" style="width: 30%; display: inline-block;"/>
+</div>
 
 ## Getting Started
 
